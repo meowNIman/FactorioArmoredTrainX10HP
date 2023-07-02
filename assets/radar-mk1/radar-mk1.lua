@@ -16,7 +16,7 @@ l_radar_mk1.flags =
 }
 l_radar_mk1.minable = nil
 -- HP 
-l_radar_mk1.max_health = 1000			-- Same as platform hp (Critical component or will be destroyed using old script)
+l_radar_mk1.max_health = 10000			-- Same as platform hp (Critical component or will be destroyed using old script)
 -- Resistance copy
 local l_base_wagon_copy_param = util.table.deepcopy(data.raw["cargo-wagon"]["cargo-wagon"]["resistances"])		
 l_radar_mk1.resistances = l_base_wagon_copy_param			-- Prevent faster damage from turret

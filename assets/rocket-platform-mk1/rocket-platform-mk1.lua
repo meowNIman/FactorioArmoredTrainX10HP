@@ -56,7 +56,7 @@ l_rocket_platform_mk1.minable =
 	mining_time = 0.5, 
 	result = "rocket-platform-mk1"		
 }
-l_rocket_platform_mk1.max_health = 1000					-- Same as turret hp (Critical component or will be destroyed using old script)	
+l_rocket_platform_mk1.max_health = 10000					-- Same as turret hp (Critical component or will be destroyed using old script)	
 l_rocket_platform_mk1.weight = 2000
 l_rocket_platform_mk1.energy_per_hit_point = 5
 -- Animation

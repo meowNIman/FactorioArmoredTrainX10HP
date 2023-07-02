@@ -1,6 +1,8 @@
 This is x10 HP version of mod created by pandamiami80s
 
 original mod with recent updates https://github.com/pandamiami80s/FactorioArmoredTrain
+
+### Download link of original mod: https://mods.factorio.com/mod/Armored-train
 ### What's inside
 
 * Armored locomotive (Crush tough biters)
@@ -10,4 +12,4 @@ original mod with recent updates https://github.com/pandamiami80s/FactorioArmore
 * Flamethrower wagon MK1 (Shoot at long range, fire damage)
 * Radar platform (Reveal train on map)
 
-### Download link: https://mods.factorio.com/mod/Armored-train
+

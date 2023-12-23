@@ -55,8 +55,8 @@ l_armored_locomotive_mk1.minable =
 }
 -- Hp
 l_armored_locomotive_mk1.max_health = 20000;
-l_armored_locomotive_mk1.weight = 4000;
-l_armored_locomotive_mk1.max_power = "800kW"
+l_armored_locomotive_mk1.weight = 40000;
+l_armored_locomotive_mk1.max_power = "8000kW"
 -- Burner
 l_armored_locomotive_mk1.burner =
 {
